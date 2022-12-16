@@ -1,8 +1,7 @@
-# PAR
-Plant Acceleration Research (PAR)
 Under Construction
 12-16-2022
-Readme_______________________________________!
+Plant Acceleration Research (PAR)
+
 	    Plant Acceleration Research - GitHub Solution
 
 PURPOSE
